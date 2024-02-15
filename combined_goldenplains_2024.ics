@@ -8,7 +8,7 @@ DTSTART;TZID=Australia/Melbourne:20240309T170500
 DTEND;TZID=Australia/Melbourne:20240309T175000
 DURATION:PT0H45M0S
 SUMMARY:Wednesday
-DESCRIPTION:Wednesday at Golden Plains 2024 \nArtist bios: https://goldenplains.com.au/#whos-playing \nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+DESCRIPTION:Wednesday at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Wednesday starts in 10 minutes
@@ -22,7 +22,7 @@ DTSTART;TZID=Australia/Melbourne:20240311T015000
 DTEND;TZID=Australia/Melbourne:20240311T033000
 DURATION:PT1H40M0S
 SUMMARY:Braxe + Falcon
-DESCRIPTION:Braxe + Falcon at Golden Plains 2024 \nArtist bios: https://goldenplains.com.au/#whos-playing \nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+DESCRIPTION:Braxe + Falcon at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Braxe + Falcon starts in 10 minutes
@@ -36,7 +36,7 @@ DTSTART;TZID=Australia/Melbourne:20240309T140000
 DTEND;TZID=Australia/Melbourne:20240309T144000
 DURATION:PT0H40M0S
 SUMMARY:Split System
-DESCRIPTION:Split System at Golden Plains 2024 \nArtist bios: https://goldenplains.com.au/#whos-playing \nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+DESCRIPTION:Split System at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Split System starts in 10 minutes
@@ -50,7 +50,7 @@ DTSTART;TZID=Australia/Melbourne:20240309T134000
 DTEND;TZID=Australia/Melbourne:20240309T134500
 DURATION:PT0H5M0S
 SUMMARY:Nolesy's Long Blink
-DESCRIPTION:Nolesy's Long Blink at Golden Plains 2024 \nArtist bios: https://goldenplains.com.au/#whos-playing \nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+DESCRIPTION:Nolesy's Long Blink at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Nolesy's Long Blink starts in 10 minutes
@@ -64,7 +64,7 @@ DTSTART;TZID=Australia/Melbourne:20240310T022000
 DTEND;TZID=Australia/Melbourne:20240310T032000
 DURATION:PT1H0M0S
 SUMMARY:Soju Gang
-DESCRIPTION:Soju Gang at Golden Plains 2024 \nArtist bios: https://goldenplains.com.au/#whos-playing \nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+DESCRIPTION:Soju Gang at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Soju Gang starts in 10 minutes
@@ -78,7 +78,7 @@ DTSTART;TZID=Australia/Melbourne:20240310T110000
 DTEND;TZID=Australia/Melbourne:20240310T114000
 DURATION:PT0H40M0S
 SUMMARY:The Slingers
-DESCRIPTION:The Slingers at Golden Plains 2024 \nArtist bios: https://goldenplains.com.au/#whos-playing \nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+DESCRIPTION:The Slingers at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:The Slingers starts in 10 minutes
@@ -92,7 +92,7 @@ DTSTART;TZID=Australia/Melbourne:20240310T215000
 DTEND;TZID=Australia/Melbourne:20240310T225000
 DURATION:PT1H0M0S
 SUMMARY:Cymande
-DESCRIPTION:Cymande at Golden Plains 2024 \nArtist bios: https://goldenplains.com.au/#whos-playing \nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+DESCRIPTION:Cymande at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Cymande starts in 10 minutes
@@ -106,7 +106,7 @@ DTSTART;TZID=Australia/Melbourne:20240310T232000
 DTEND;TZID=Australia/Melbourne:20240311T003000
 DURATION:PT1H10M0S
 SUMMARY:The Streets
-DESCRIPTION:The Streets at Golden Plains 2024 \nArtist bios: https://goldenplains.com.au/#whos-playing \nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+DESCRIPTION:The Streets at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:The Streets starts in 10 minutes
@@ -120,7 +120,7 @@ DTSTART;TZID=Australia/Melbourne:20240311T005500
 DTEND;TZID=Australia/Melbourne:20240311T014500
 DURATION:PT0H50M0S
 SUMMARY:Sunshine and Disco Faith Choir
-DESCRIPTION:Sunshine and Disco Faith Choir at Golden Plains 2024 \nArtist bios: https://goldenplains.com.au/#whos-playing \nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+DESCRIPTION:Sunshine and Disco Faith Choir at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Sunshine and Disco Faith Choir starts in 10 minutes
@@ -134,7 +134,7 @@ DTSTART;TZID=Australia/Melbourne:20240311T033000
 DTEND;TZID=Australia/Melbourne:20240311T051500
 DURATION:PT1H45M0S
 SUMMARY:ANZ
-DESCRIPTION:ANZ at Golden Plains 2024 \nArtist bios: https://goldenplains.com.au/#whos-playing \nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+DESCRIPTION:ANZ at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ANZ starts in 10 minutes
@@ -148,7 +148,7 @@ DTSTART;TZID=Australia/Melbourne:20240309T232500
 DTEND;TZID=Australia/Melbourne:20240310T002000
 DURATION:PT0H55M0S
 SUMMARY:Regurgitator
-DESCRIPTION:Regurgitator at Golden Plains 2024 \nArtist bios: https://goldenplains.com.au/#whos-playing \nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+DESCRIPTION:Regurgitator at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Regurgitator starts in 10 minutes
@@ -162,7 +162,7 @@ DTSTART;TZID=Australia/Melbourne:20240310T152000
 DTEND;TZID=Australia/Melbourne:20240310T160000
 DURATION:PT0H40M0S
 SUMMARY:Elsy Wameyo
-DESCRIPTION:Elsy Wameyo at Golden Plains 2024 \nArtist bios: https://goldenplains.com.au/#whos-playing \nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+DESCRIPTION:Elsy Wameyo at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Elsy Wameyo starts in 10 minutes
@@ -176,7 +176,7 @@ DTSTART;TZID=Australia/Melbourne:20240310T004500
 DTEND;TZID=Australia/Melbourne:20240310T013000
 DURATION:PT0H45M0S
 SUMMARY:Charlotte Adigéry & Bolis Pupul
-DESCRIPTION:Charlotte Adigéry & Bolis Pupul at Golden Plains 2024 \nArtist bios: https://goldenplains.com.au/#whos-playing \nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+DESCRIPTION:Charlotte Adigéry & Bolis Pupul at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Charlotte Adigéry & Bolis Pupul starts in 10 minutes
@@ -190,7 +190,7 @@ DTSTART;TZID=Australia/Melbourne:20240310T115000
 DTEND;TZID=Australia/Melbourne:20240310T120500
 DURATION:PT0H15M0S
 SUMMARY:Storytelling with Uncle Barry
-DESCRIPTION:Storytelling with Uncle Barry at Golden Plains 2024 \nArtist bios: https://goldenplains.com.au/#whos-playing \nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+DESCRIPTION:Storytelling with Uncle Barry at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Storytelling with Uncle Barry starts in 10 minutes
@@ -204,7 +204,7 @@ DTSTART;TZID=Australia/Melbourne:20240310T131500
 DTEND;TZID=Australia/Melbourne:20240310T135500
 DURATION:PT0H40M0S
 SUMMARY:Kutcha Edwards
-DESCRIPTION:Kutcha Edwards at Golden Plains 2024 \nArtist bios: https://goldenplains.com.au/#whos-playing \nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+DESCRIPTION:Kutcha Edwards at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Kutcha Edwards starts in 10 minutes
@@ -218,7 +218,7 @@ DTSTART;TZID=Australia/Melbourne:20240310T015000
 DTEND;TZID=Australia/Melbourne:20240310T021000
 DURATION:PT0H20M0S
 SUMMARY:VV Pete
-DESCRIPTION:VV Pete at Golden Plains 2024 \nArtist bios: https://goldenplains.com.au/#whos-playing \nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+DESCRIPTION:VV Pete at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:VV Pete starts in 10 minutes
@@ -232,7 +232,7 @@ DTSTART;TZID=Australia/Melbourne:20240309T204500
 DTEND;TZID=Australia/Melbourne:20240309T213000
 DURATION:PT0H45M0S
 SUMMARY:Boris
-DESCRIPTION:Boris at Golden Plains 2024 \nArtist bios: https://goldenplains.com.au/#whos-playing \nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+DESCRIPTION:Boris at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Boris starts in 10 minutes
@@ -246,7 +246,7 @@ DTSTART;TZID=Australia/Melbourne:20240309T160000
 DTEND;TZID=Australia/Melbourne:20240309T164000
 DURATION:PT0H40M0S
 SUMMARY:Mavi
-DESCRIPTION:Mavi at Golden Plains 2024 \nArtist bios: https://goldenplains.com.au/#whos-playing \nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+DESCRIPTION:Mavi at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Mavi starts in 10 minutes
@@ -260,7 +260,7 @@ DTSTART;TZID=Australia/Melbourne:20240310T100000
 DTEND;TZID=Australia/Melbourne:20240310T104000
 DURATION:PT0H40M0S
 SUMMARY:Sarah Mary Chadwick
-DESCRIPTION:Sarah Mary Chadwick at Golden Plains 2024 \nArtist bios: https://goldenplains.com.au/#whos-playing \nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+DESCRIPTION:Sarah Mary Chadwick at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Sarah Mary Chadwick starts in 10 minutes
@@ -274,7 +274,7 @@ DTSTART;TZID=Australia/Melbourne:20240310T191000
 DTEND;TZID=Australia/Melbourne:20240310T200000
 DURATION:PT0H50M0S
 SUMMARY:Black Country, New Road
-DESCRIPTION:Black Country, New Road at Golden Plains 2024 \nArtist bios: https://goldenplains.com.au/#whos-playing \nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+DESCRIPTION:Black Country, New Road at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Black Country, New Road starts in 10 minutes
@@ -288,7 +288,7 @@ DTSTART;TZID=Australia/Melbourne:20240309T134500
 DTEND;TZID=Australia/Melbourne:20240309T140000
 DURATION:PT0H15M0S
 SUMMARY:Welcome To Country
-DESCRIPTION:Welcome To Country at Golden Plains 2024 \nArtist bios: https://goldenplains.com.au/#whos-playing \nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+DESCRIPTION:Welcome To Country at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Welcome To Country starts in 10 minutes
@@ -302,7 +302,7 @@ DTSTART;TZID=Australia/Melbourne:20240309T150000
 DTEND;TZID=Australia/Melbourne:20240309T153500
 DURATION:PT0H35M0S
 SUMMARY:Sneaks
-DESCRIPTION:Sneaks at Golden Plains 2024 \nArtist bios: https://goldenplains.com.au/#whos-playing \nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+DESCRIPTION:Sneaks at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Sneaks starts in 10 minutes
@@ -316,7 +316,7 @@ DTSTART;TZID=Australia/Melbourne:20240310T162000
 DTEND;TZID=Australia/Melbourne:20240310T172000
 DURATION:PT1H0M0S
 SUMMARY:DJ Koco
-DESCRIPTION:DJ Koco at Golden Plains 2024 \nArtist bios: https://goldenplains.com.au/#whos-playing \nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+DESCRIPTION:DJ Koco at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:DJ Koco starts in 10 minutes
@@ -330,7 +330,7 @@ DTSTART;TZID=Australia/Melbourne:20240310T142000
 DTEND;TZID=Australia/Melbourne:20240310T150000
 DURATION:PT0H40M0S
 SUMMARY:MJ Lenderman
-DESCRIPTION:MJ Lenderman at Golden Plains 2024 \nArtist bios: https://goldenplains.com.au/#whos-playing \nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+DESCRIPTION:MJ Lenderman at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:MJ Lenderman starts in 10 minutes
@@ -344,7 +344,7 @@ DTSTART;TZID=Australia/Melbourne:20240310T121500
 DTEND;TZID=Australia/Melbourne:20240310T125500
 DURATION:PT0H40M0S
 SUMMARY:The Belair Lip Bombs
-DESCRIPTION:The Belair Lip Bombs at Golden Plains 2024 \nArtist bios: https://goldenplains.com.au/#whos-playing \nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+DESCRIPTION:The Belair Lip Bombs at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:The Belair Lip Bombs starts in 10 minutes
@@ -358,7 +358,7 @@ DTSTART;TZID=Australia/Melbourne:20240311T051500
 DTEND;TZID=Australia/Melbourne:20240311T070000
 DURATION:PT1H45M0S
 SUMMARY:Ben Fester
-DESCRIPTION:Ben Fester at Golden Plains 2024 \nArtist bios: https://goldenplains.com.au/#whos-playing \nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+DESCRIPTION:Ben Fester at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Ben Fester starts in 10 minutes
@@ -372,7 +372,7 @@ DTSTART;TZID=Australia/Melbourne:20240309T181500
 DTEND;TZID=Australia/Melbourne:20240309T190500
 DURATION:PT0H50M0S
 SUMMARY:Witch
-DESCRIPTION:Witch at Golden Plains 2024 \nArtist bios: https://goldenplains.com.au/#whos-playing \nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+DESCRIPTION:Witch at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Witch starts in 10 minutes
@@ -380,16 +380,16 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:KIA@goldenplains2024
+UID:Kia@goldenplains2024
 DTSTAMP:20240310T033000Z
 DTSTART;TZID=Australia/Melbourne:20240310T033000
 DTEND;TZID=Australia/Melbourne:20240310T050000
 DURATION:PT1H30M0S
-SUMMARY:KIA
-DESCRIPTION:KIA at Golden Plains 2024 \nArtist bios: https://goldenplains.com.au/#whos-playing \nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+SUMMARY:Kia
+DESCRIPTION:Kia at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:KIA starts in 10 minutes
+DESCRIPTION:Kia starts in 10 minutes
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
@@ -400,7 +400,7 @@ DTSTART;TZID=Australia/Melbourne:20240310T203000
 DTEND;TZID=Australia/Melbourne:20240310T212000
 DURATION:PT0H50M0S
 SUMMARY:King Stingray
-DESCRIPTION:King Stingray at Golden Plains 2024 \nArtist bios: https://goldenplains.com.au/#whos-playing \nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+DESCRIPTION:King Stingray at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:King Stingray starts in 10 minutes
@@ -414,7 +414,7 @@ DTSTART;TZID=Australia/Melbourne:20240309T193000
 DTEND;TZID=Australia/Melbourne:20240309T201500
 DURATION:PT0H45M0S
 SUMMARY:RVG
-DESCRIPTION:RVG at Golden Plains 2024 \nArtist bios: https://goldenplains.com.au/#whos-playing \nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+DESCRIPTION:RVG at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:RVG starts in 10 minutes
@@ -428,7 +428,7 @@ DTSTART;TZID=Australia/Melbourne:20240310T174500
 DTEND;TZID=Australia/Melbourne:20240310T184500
 DURATION:PT1H0M0S
 SUMMARY:Jeff Mills
-DESCRIPTION:Jeff Mills at Golden Plains 2024 \nArtist bios: https://goldenplains.com.au/#whos-playing \nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+DESCRIPTION:Jeff Mills at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Jeff Mills starts in 10 minutes
@@ -442,7 +442,7 @@ DTSTART;TZID=Australia/Melbourne:20240309T220000
 DTEND;TZID=Australia/Melbourne:20240309T230000
 DURATION:PT1H0M0S
 SUMMARY:Yussef Dayes
-DESCRIPTION:Yussef Dayes at Golden Plains 2024 \nArtist bios: https://goldenplains.com.au/#whos-playing \nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+DESCRIPTION:Yussef Dayes at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Yussef Dayes starts in 10 minutes
@@ -456,7 +456,7 @@ DTSTART;TZID=Australia/Melbourne:20240309T131000
 DTEND;TZID=Australia/Melbourne:20240309T134000
 DURATION:PT0H30M0S
 SUMMARY:Smoking Ceremony
-DESCRIPTION:Smoking Ceremony at Golden Plains 2024 \nArtist bios: https://goldenplains.com.au/#whos-playing \nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+DESCRIPTION:Smoking Ceremony at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Smoking Ceremony starts in 10 minutes
