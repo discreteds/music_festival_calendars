@@ -32,15 +32,15 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Braxe + Falcon@goldenplains2024
-DTSTAMP:20240311T015000Z
-DTSTART;TZID=Australia/Melbourne:20240311T015000
-DTEND;TZID=Australia/Melbourne:20240311T033000
-SUMMARY:Braxe + Falcon
-DESCRIPTION:Braxe + Falcon at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+UID:Ben Fester@goldenplains2024
+DTSTAMP:20240311T051500Z
+DTSTART;TZID=Australia/Melbourne:20240311T051500
+DTEND;TZID=Australia/Melbourne:20240311T070000
+SUMMARY:Ben Fester
+DESCRIPTION:Ben Fester at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Braxe + Falcon starts in 10 minutes
+DESCRIPTION:Ben Fester starts in 10 minutes
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
@@ -71,54 +71,28 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Soju Gang@goldenplains2024
-DTSTAMP:20240310T022000Z
-DTSTART;TZID=Australia/Melbourne:20240310T022000
-DTEND;TZID=Australia/Melbourne:20240310T032000
-SUMMARY:Soju Gang
-DESCRIPTION:Soju Gang at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+UID:Sarah Mary Chadwick@goldenplains2024
+DTSTAMP:20240310T100000Z
+DTSTART;TZID=Australia/Melbourne:20240310T100000
+DTEND;TZID=Australia/Melbourne:20240310T104000
+SUMMARY:Sarah Mary Chadwick
+DESCRIPTION:Sarah Mary Chadwick at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Soju Gang starts in 10 minutes
+DESCRIPTION:Sarah Mary Chadwick starts in 10 minutes
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:The Slingers@goldenplains2024
-DTSTAMP:20240310T110000Z
-DTSTART;TZID=Australia/Melbourne:20240310T110000
-DTEND;TZID=Australia/Melbourne:20240310T114000
-SUMMARY:The Slingers
-DESCRIPTION:The Slingers at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+UID:The Belair Lip Bombs@goldenplains2024
+DTSTAMP:20240310T121500Z
+DTSTART;TZID=Australia/Melbourne:20240310T121500
+DTEND;TZID=Australia/Melbourne:20240310T125500
+SUMMARY:The Belair Lip Bombs
+DESCRIPTION:The Belair Lip Bombs at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:The Slingers starts in 10 minutes
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:Cymande@goldenplains2024
-DTSTAMP:20240310T215000Z
-DTSTART;TZID=Australia/Melbourne:20240310T215000
-DTEND;TZID=Australia/Melbourne:20240310T225000
-SUMMARY:Cymande
-DESCRIPTION:Cymande at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Cymande starts in 10 minutes
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:The Streets@goldenplains2024
-DTSTAMP:20240310T232000Z
-DTSTART;TZID=Australia/Melbourne:20240310T232000
-DTEND;TZID=Australia/Melbourne:20240311T003000
-SUMMARY:The Streets
-DESCRIPTION:The Streets at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:The Streets starts in 10 minutes
+DESCRIPTION:The Belair Lip Bombs starts in 10 minutes
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
@@ -132,6 +106,32 @@ DESCRIPTION:Sunshine and Disco Faith Choir at Golden Plains 2024\n\nArtist bios:
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Sunshine and Disco Faith Choir starts in 10 minutes
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Braxe + Falcon@goldenplains2024
+DTSTAMP:20240311T015000Z
+DTSTART;TZID=Australia/Melbourne:20240311T015000
+DTEND;TZID=Australia/Melbourne:20240311T033000
+SUMMARY:Braxe + Falcon
+DESCRIPTION:Braxe + Falcon at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Braxe + Falcon starts in 10 minutes
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ANZ@goldenplains2024
+DTSTAMP:20240311T033000Z
+DTSTART;TZID=Australia/Melbourne:20240311T033000
+DTEND;TZID=Australia/Melbourne:20240311T051500
+SUMMARY:ANZ
+DESCRIPTION:ANZ at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ANZ starts in 10 minutes
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
@@ -162,41 +162,28 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Elsy Wameyo@goldenplains2024
-DTSTAMP:20240310T152000Z
-DTSTART;TZID=Australia/Melbourne:20240310T152000
-DTEND;TZID=Australia/Melbourne:20240310T160000
-SUMMARY:Elsy Wameyo
-DESCRIPTION:Elsy Wameyo at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+UID:Jeff Mills@goldenplains2024
+DTSTAMP:20240310T174500Z
+DTSTART;TZID=Australia/Melbourne:20240310T174500
+DTEND;TZID=Australia/Melbourne:20240310T184500
+SUMMARY:Jeff Mills
+DESCRIPTION:Jeff Mills at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Elsy Wameyo starts in 10 minutes
+DESCRIPTION:Jeff Mills starts in 10 minutes
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Charlotte Adigéry & Bolis Pupul@goldenplains2024
+UID:Charlotte Adigéry & Bolis Pupul - VV Pete @ 1:50am - Soju Gang@2:20am@goldenplains2024
 DTSTAMP:20240310T004500Z
 DTSTART;TZID=Australia/Melbourne:20240310T004500
-DTEND;TZID=Australia/Melbourne:20240310T013000
-SUMMARY:Charlotte Adigéry & Bolis Pupul
-DESCRIPTION:Charlotte Adigéry & Bolis Pupul at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+DTEND;TZID=Australia/Melbourne:20240310T032000
+SUMMARY:Charlotte Adigéry & Bolis Pupul - VV Pete @ 1:50am - Soju Gang@2:20am
+DESCRIPTION:Charlotte Adigéry & Bolis Pupul - VV Pete @ 1:50am - Soju Gang@2:20am at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Charlotte Adigéry & Bolis Pupul starts in 10 minutes
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:Storytelling with Uncle Barry@goldenplains2024
-DTSTAMP:20240310T115000Z
-DTSTART;TZID=Australia/Melbourne:20240310T115000
-DTEND;TZID=Australia/Melbourne:20240310T120500
-SUMMARY:Storytelling with Uncle Barry
-DESCRIPTION:Storytelling with Uncle Barry at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Storytelling with Uncle Barry starts in 10 minutes
+DESCRIPTION:Charlotte Adigéry & Bolis Pupul - VV Pete @ 1:50am - Soju Gang@2:20am starts in 10 minutes
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
@@ -214,15 +201,28 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:VV Pete@goldenplains2024
-DTSTAMP:20240310T015000Z
-DTSTART;TZID=Australia/Melbourne:20240310T015000
-DTEND;TZID=Australia/Melbourne:20240310T021000
-SUMMARY:VV Pete
-DESCRIPTION:VV Pete at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+UID:Elsy Wameyo@goldenplains2024
+DTSTAMP:20240310T152000Z
+DTSTART;TZID=Australia/Melbourne:20240310T152000
+DTEND;TZID=Australia/Melbourne:20240310T160000
+SUMMARY:Elsy Wameyo
+DESCRIPTION:Elsy Wameyo at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:VV Pete starts in 10 minutes
+DESCRIPTION:Elsy Wameyo starts in 10 minutes
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Kia@goldenplains2024
+DTSTAMP:20240310T033000Z
+DTSTART;TZID=Australia/Melbourne:20240310T033000
+DTEND;TZID=Australia/Melbourne:20240310T050000
+SUMMARY:Kia
+DESCRIPTION:Kia at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kia starts in 10 minutes
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
@@ -253,28 +253,28 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Sarah Mary Chadwick@goldenplains2024
-DTSTAMP:20240310T100000Z
-DTSTART;TZID=Australia/Melbourne:20240310T100000
-DTEND;TZID=Australia/Melbourne:20240310T104000
-SUMMARY:Sarah Mary Chadwick
-DESCRIPTION:Sarah Mary Chadwick at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+UID:Storytelling with Uncle Barry@goldenplains2024
+DTSTAMP:20240310T115000Z
+DTSTART;TZID=Australia/Melbourne:20240310T115000
+DTEND;TZID=Australia/Melbourne:20240310T120500
+SUMMARY:Storytelling with Uncle Barry
+DESCRIPTION:Storytelling with Uncle Barry at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Sarah Mary Chadwick starts in 10 minutes
+DESCRIPTION:Storytelling with Uncle Barry starts in 10 minutes
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Black Country, New Road@goldenplains2024
-DTSTAMP:20240310T191000Z
-DTSTART;TZID=Australia/Melbourne:20240310T191000
-DTEND;TZID=Australia/Melbourne:20240310T200000
-SUMMARY:Black Country, New Road
-DESCRIPTION:Black Country, New Road at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+UID:Cymande@goldenplains2024
+DTSTAMP:20240310T215000Z
+DTSTART;TZID=Australia/Melbourne:20240310T215000
+DTEND;TZID=Australia/Melbourne:20240310T225000
+SUMMARY:Cymande
+DESCRIPTION:Cymande at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Black Country, New Road starts in 10 minutes
+DESCRIPTION:Cymande starts in 10 minutes
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
@@ -305,6 +305,19 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:Black Country, New Road@goldenplains2024
+DTSTAMP:20240310T191000Z
+DTSTART;TZID=Australia/Melbourne:20240310T191000
+DTEND;TZID=Australia/Melbourne:20240310T200000
+SUMMARY:Black Country, New Road
+DESCRIPTION:Black Country, New Road at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Black Country, New Road starts in 10 minutes
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:DJ Koco@goldenplains2024
 DTSTAMP:20240310T162000Z
 DTSTART;TZID=Australia/Melbourne:20240310T162000
@@ -327,19 +340,6 @@ DESCRIPTION:MJ Lenderman at Golden Plains 2024\n\nArtist bios: https://goldenpla
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:MJ Lenderman starts in 10 minutes
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:The Belair Lip Bombs@goldenplains2024
-DTSTAMP:20240310T121500Z
-DTSTART;TZID=Australia/Melbourne:20240310T121500
-DTEND;TZID=Australia/Melbourne:20240310T125500
-SUMMARY:The Belair Lip Bombs
-DESCRIPTION:The Belair Lip Bombs at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:The Belair Lip Bombs starts in 10 minutes
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
@@ -370,28 +370,28 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Kia@goldenplains2024
-DTSTAMP:20240310T033000Z
-DTSTART;TZID=Australia/Melbourne:20240310T033000
-DTEND;TZID=Australia/Melbourne:20240310T050000
-SUMMARY:Kia
-DESCRIPTION:Kia at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+UID:The Slingers@goldenplains2024
+DTSTAMP:20240310T110000Z
+DTSTART;TZID=Australia/Melbourne:20240310T110000
+DTEND;TZID=Australia/Melbourne:20240310T114000
+SUMMARY:The Slingers
+DESCRIPTION:The Slingers at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Kia starts in 10 minutes
+DESCRIPTION:The Slingers starts in 10 minutes
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:King Stingray@goldenplains2024
-DTSTAMP:20240310T203000Z
-DTSTART;TZID=Australia/Melbourne:20240310T203000
-DTEND;TZID=Australia/Melbourne:20240310T212000
-SUMMARY:King Stingray
-DESCRIPTION:King Stingray at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+UID:The Streets@goldenplains2024
+DTSTAMP:20240310T232000Z
+DTSTART;TZID=Australia/Melbourne:20240310T232000
+DTEND;TZID=Australia/Melbourne:20240311T003000
+SUMMARY:The Streets
+DESCRIPTION:The Streets at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:King Stingray starts in 10 minutes
+DESCRIPTION:The Streets starts in 10 minutes
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
@@ -409,15 +409,15 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Jeff Mills@goldenplains2024
-DTSTAMP:20240310T174500Z
-DTSTART;TZID=Australia/Melbourne:20240310T174500
-DTEND;TZID=Australia/Melbourne:20240310T184500
-SUMMARY:Jeff Mills
-DESCRIPTION:Jeff Mills at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+UID:King Stingray@goldenplains2024
+DTSTAMP:20240310T203000Z
+DTSTART;TZID=Australia/Melbourne:20240310T203000
+DTEND;TZID=Australia/Melbourne:20240310T212000
+SUMMARY:King Stingray
+DESCRIPTION:King Stingray at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Jeff Mills starts in 10 minutes
+DESCRIPTION:King Stingray starts in 10 minutes
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
