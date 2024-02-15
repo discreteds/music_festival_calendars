@@ -136,19 +136,6 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ANZ@goldenplains2024
-DTSTAMP:20240311T033000Z
-DTSTART;TZID=Australia/Melbourne:20240311T033000
-DTEND;TZID=Australia/Melbourne:20240311T051500
-SUMMARY:ANZ
-DESCRIPTION:ANZ at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ANZ starts in 10 minutes
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:Regurgitator@goldenplains2024
 DTSTAMP:20240309T232500Z
 DTSTART;TZID=Australia/Melbourne:20240309T232500
@@ -340,19 +327,6 @@ DESCRIPTION:MJ Lenderman at Golden Plains 2024\n\nArtist bios: https://goldenpla
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:MJ Lenderman starts in 10 minutes
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:Ben Fester@goldenplains2024
-DTSTAMP:20240311T051500Z
-DTSTART;TZID=Australia/Melbourne:20240311T051500
-DTEND;TZID=Australia/Melbourne:20240311T070000
-SUMMARY:Ben Fester
-DESCRIPTION:Ben Fester at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Ben Fester starts in 10 minutes
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
