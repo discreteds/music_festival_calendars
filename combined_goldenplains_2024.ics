@@ -227,15 +227,15 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Mavi@goldenplains2024
+UID:BARO SURA & SILENTJAY@goldenplains2024
 DTSTAMP:20240309T160000Z
 DTSTART;TZID=Australia/Melbourne:20240309T160000
 DTEND;TZID=Australia/Melbourne:20240309T164000
-SUMMARY:Mavi
-DESCRIPTION:Mavi at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
+SUMMARY:Baro Sura & Silentjay
+DESCRIPTION:Baro Sura & Silentjay at Golden Plains 2024\n\nArtist bios: https://goldenplains.com.au/#whos-playing \n\nSet Times PDF: https://content.mmf.com.au/wp-content/uploads/sites/20/2024/02/GP2024_PlayingTimes_A4_.pdf?x58291
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Mavi starts in 10 minutes
+DESCRIPTION:Baro Sura & Silentjay starts in 10 minutes
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
